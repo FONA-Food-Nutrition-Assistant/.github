@@ -6,6 +6,20 @@
 
 ---
 
+## FONA: Food Nutrition Assistant Documentation
+> https://bit.ly/fona-documentation
+---
+
+## Backend API Documentation
+> https://bit.ly/fona-api-documentation
+
+---
+
+## FONA Github
+> https://github.com/FONA-Food-Nutrition-Assistant
+
+---
+
 ## Features
 
 - Allows users to take a picture of their food and then calculate its nutritional content.
@@ -16,31 +30,33 @@
 
 ## Application Demonstration
 
-- TBC
+<div class="demo-items">
+<div class="demo-item">
+<h4 style="text-align: center">
+Login with Google
+</h4>
+<img src="./images/gif/login_with_google.gif" 
+alt="Login with Google"
+width="400"
+class="img"/>
+</div>
+</div>
 
 ---
 
 ## Infrastructure Design
 <img src="./images/fona-infrastructure-design.png" 
-alt="Infrastructure Design" 
-width="800" 
+alt="FONA Infrastructure Design" 
+width="800px" 
 style="border-radius: 40px; border: 2px solid #42B983"/>
 
 ---
 
 ## Deployment Strategies
 
-- TBC
-
----
-
-## API Documentation
-> https://bit.ly/fona-api-documentation
-
----
-
-
-## FONA Github
-> https://github.com/FONA-Food-Nutrition-Assistant
+<img src="./images/deployment_strategies.png" 
+alt="FONA Deployment Strategies" 
+width="800px" 
+style="border-radius: 40px; border: 2px solid #42B983; padding: 25px"/>
 
 ---
