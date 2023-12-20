@@ -7,11 +7,11 @@
 ---
 
 ## FONA: Food Nutrition Assistant Documentation
-> https://bit.ly/fona-documentation
+> https://bit.ly/fona-docs
 ---
 
 ## Backend API Documentation
-> https://bit.ly/fona-api-documentation
+> https://bit.ly/fona-api-docs
 
 ---
 
@@ -19,6 +19,23 @@
 > https://github.com/FONA-Food-Nutrition-Assistant
 
 ---
+
+# Table of Contents
+
+- [FONA: Food Nutrition Assistant](#fona-food-nutrition-assistant)
+- [FONA: Food Nutrition Assistant Documentation](#fona-food-nutrition-assistant-documentation)
+- [Backend API Documentation](#backend-api-documentation)
+- [FONA Github](#fona-github)
+- [Features](#features)
+- [Application Demonstration](#application-demonstration)
+    - [Login with Google](#login-with-google)
+    - [Login with Email](#login-with-email)
+    - [Home Page](#home-page)
+    - [Scan Food](#scan-food)
+    - [Scan Food from Gallery](#scan-food-from-gallery)
+    - [Update User Data](#update-user-data)
+- [Infrastructure Design](#infrastructure-design)
+- [Deployment Strategies](#deployment-strategies)
 
 ## Features
 
