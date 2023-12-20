@@ -31,6 +31,7 @@
 ## Application Demonstration
 
 <div class="demo-items">
+
 <div class="demo-item">
 <h4 style="text-align: center">
 Login with Google
@@ -40,6 +41,57 @@ alt="Login with Google"
 width="400"
 class="img"/>
 </div>
+
+<div class="demo-item">
+<h4 style="text-align: center">
+Login with Email
+</h4>
+<img src="./images/gif/login_with_email.gif" 
+alt="Login with Email"
+width="400"
+class="img"/>
+</div>
+
+<div class="demo-item">
+<h4 style="text-align: center">
+Home Page
+</h4>
+<img src="./images/gif/home_page.gif" 
+alt="Home Page"
+width="400"
+class="img"/>
+</div>
+
+<div class="demo-item">
+<h4 style="text-align: center">
+Scan Food
+</h4>
+<img src="./images/gif/scan_food.gif" 
+alt="Scan Food"
+width="400"
+class="img"/>
+</div>
+
+<div class="demo-item">
+<h4 style="text-align: center">
+Scan Food from Gallery
+</h4>
+<img src="./images/gif/scan_food_by_image.gif" 
+alt="Scan Food from Gallery"
+width="400"
+class="img"/>
+</div>
+
+<div class="demo-item">
+<h4 style="text-align: center">
+Update User Data
+</h4>
+<img src="./images/gif/update_user_data.gif" 
+alt="Update User Data"
+width="400"
+class="img"/>
+</div>
+
 </div>
 
 ---
