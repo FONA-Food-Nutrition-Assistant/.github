@@ -11,7 +11,7 @@
 ---
 
 ## Backend API Documentation
-> https://bit.ly/fona-api-docs
+> https://bit.ly/fona-backend-api-docs
 
 ---
 
