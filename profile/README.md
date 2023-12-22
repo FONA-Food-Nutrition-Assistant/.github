@@ -20,7 +20,7 @@
 
 ---
 
-# Table of Contents
+## Table of Contents
 
 - [FONA: Food Nutrition Assistant](#fona-food-nutrition-assistant)
 - [FONA: Food Nutrition Assistant Documentation](#fona-food-nutrition-assistant-documentation)
@@ -36,6 +36,10 @@
     - [Update User Data](#update-user-data)
 - [Infrastructure Design](#infrastructure-design)
 - [Deployment Strategies](#deployment-strategies)
+- [Our Members [CH2-PS314]](#our-members)
+    - [Machine Learning Division](#machine-learning-division)
+    - [Cloud Computing Division](#cloud-computing-division)
+    - [Mobile Development Division](#mobile-development-division)
 
 ## Features
 
@@ -49,7 +53,7 @@
 
 <div class="demo-items">
 
-<div class="demo-item">
+<div class="demo-item" id="login-with-google">
 <h4 style="text-align: center">
 Login with Google
 </h4>
@@ -59,7 +63,7 @@ width="400"
 class="img"/>
 </div>
 
-<div class="demo-item">
+<div class="demo-item" id="login-with-email">
 <h4 style="text-align: center">
 Login with Email
 </h4>
@@ -69,7 +73,7 @@ width="400"
 class="img"/>
 </div>
 
-<div class="demo-item">
+<div class="demo-item" id="home-page">
 <h4 style="text-align: center">
 Home Page
 </h4>
@@ -79,7 +83,7 @@ width="400"
 class="img"/>
 </div>
 
-<div class="demo-item">
+<div class="demo-item" id="scan-food">
 <h4 style="text-align: center">
 Scan Food
 </h4>
@@ -89,7 +93,7 @@ width="400"
 class="img"/>
 </div>
 
-<div class="demo-item">
+<div class="demo-item" id="scan-food-from-gallery">
 <h4 style="text-align: center">
 Scan Food from Gallery
 </h4>
@@ -99,7 +103,7 @@ width="400"
 class="img"/>
 </div>
 
-<div class="demo-item">
+<div class="demo-item" id="update-user-data">
 <h4 style="text-align: center">
 Update User Data
 </h4>
@@ -129,3 +133,26 @@ width="800px"
 style="border-radius: 40px; border: 2px solid #42B983; padding: 25px"/>
 
 ---
+
+## Our Members [CH2-PS314]
+
+<span id="our-members"></span>
+
+### Machine Learning Division
+| Bangkit ID | Name | University | Profile |
+|:----------:|:----:|:----------:|:-------:|
+|M004BSX1551|Christina Mega Putri|Institut Teknologi Sepuluh Nopember|<a href="https://www.linkedin.com/in/christina-mega-putri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan" height="30" width="30"/></a>|
+|M002BSY0123|Octavianus Bagaswara Adi|Institut Teknologi Bandung|<a href="https://www.linkedin.com/in/octavianusbagas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan" height="30" width="30"/></a>|
+|M002BSY0374|Jovan Eugene Hartadi|Institut Teknologi Bandung|<a href="https://www.linkedin.com/in/jovanhartadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan" height="30" width="30"/></a>|
+
+### Cloud Computing Division
+| Bangkit ID | Name | University | Profile |
+|:----------:|:----:|:----------:|:-------:|
+|C271BSY3179|Bonifasius Ariesto Adrian Finantyo|Universitas Multimedia Nusantara Jakarta|<a href="https://www.linkedin.com/in/adrianfinantyo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan" height="30" width="30"/></a>|
+|C550BKY4429|Fikri Dean Radityo|UIN Syarif Hidayatullah Jakarta|<a href="https://www.linkedin.com/in/fikridean/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan" height="30" width="30"/></a>|
+
+### Mobile Development Division
+| Bangkit ID | Name | University | Profile |
+|:----------:|:----:|:----------:|:-------:|
+|A014BSX2360|Lulu Makluna Arief|Universitas Udayana|<a href="https://www.linkedin.com/in/lulu-makluna-3189b7164/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan" height="30" width="30"/></a>|
+|A550BKY4457|Marwan Hasbun Nur|UIN Syarif Hidayatullah Jakarta|<a href="https://www.linkedin.com/in/marwan-hasbun-nur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan" height="30" width="30"/></a>|
